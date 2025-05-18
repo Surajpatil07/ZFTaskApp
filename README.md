@@ -17,3 +17,6 @@ A simple WPF desktop application built as part of a task for ZF Technologies.
 - Commands using DelegateCommand
 - MVVM structure with proper ViewModel separation
 - Used styling from the Resource Dictionary.
+
+## How to Run
+-Download the release zip file attached in the release folder and open the .exe file
