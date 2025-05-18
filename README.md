@@ -19,4 +19,4 @@ A simple WPF desktop application built as part of a task for ZF Technologies.
 - Used styling from the Resource Dictionary.
 
 ## How to Run
--Download the release zip file attached in the release folder and open the .exe file
+Download the release zip file attached in the release folder and open the .exe file
