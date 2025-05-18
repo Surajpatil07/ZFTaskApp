@@ -16,3 +16,4 @@ A simple WPF desktop application built as part of a task for ZF Technologies.
 - Fully styled `DataGrid` with clean grid lines
 - Commands using DelegateCommand
 - MVVM structure with proper ViewModel separation
+- Used styling from the Resource Dictionary.
