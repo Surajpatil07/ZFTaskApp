@@ -1,0 +1,14 @@
+﻿<Application x:Class="ZFTaskApplication.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ZFTaskApplication"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="datagridstyle" TargetType="{x:Type DataGrid}">
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="GridLinesVisibility" Value="All" />
+            <Setter Property="CanUserAddRows" Value="False" />
+            <Setter Property="AutoGenerateColumns" Value="False" />
+        </Style>
+    </Application.Resources>
+</Application>
